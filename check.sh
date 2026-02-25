@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# this script purpose is to check if a file exists or not.
+
 set -e
 set -u
 set -o pipefail
