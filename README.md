@@ -1,1 +1,1 @@
-A personal review of bash scripting and other related devops skills.
+A personal review of bash scripting and python skills.
